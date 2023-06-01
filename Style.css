@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    font-family: hobeaux, sans-serif;
+    /* background: #dfe1f7; */
+}
+
+#Click {
+    font-weight: 700;
+    font-size: 3rem;
+    width: 20rem;
+    margin-top: 2rem;
+    margin-left: 38%;
+    margin-right: auto;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+p{
+    margin: 0;
+}
+
+.arrow {
+    border: solid black;
+    border-width: 0 0.5rem 0.5rem 0;
+    display: inline-block;
+    padding: 1rem;
+    margin: 0;
+}
+
+.down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+
+#reaper {
+    width: 20vw;
+    margin-left: 37%;
+    margin-right: 50%;
+}
+
+#reaperImg {
+    width: 20rem;
+}
+
+#dialogue {
+    margin-left: auto;
+    margin-right: auto;
+    width: 45rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
